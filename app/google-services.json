@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057146721020",
+    "project_id": "mori-translator",
+    "storage_bucket": "mori-translator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057146721020:android:132e25eff86af03769fd79",
+        "android_client_info": {
+          "package_name": "com.aldinata.moritranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057146721020-pjued15kkb8e783pugocrk91le94m6a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXF4AlPQKjpi9SCq4KXAgsjMlSUnha0WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057146721020-pjued15kkb8e783pugocrk91le94m6a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
